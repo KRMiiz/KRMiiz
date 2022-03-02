@@ -15,14 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=krmiiz&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=krmiiz&hide=contribs,prs)
-
-
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=krmiiz)](https://github.com/anuraghazra/github-readme-stats)
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krmiiz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/anuraghazra/github-readme-stats)
